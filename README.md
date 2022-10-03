@@ -1,2 +1,2 @@
-# Pygame-patrono
+# patrono
 My first python pygame project
