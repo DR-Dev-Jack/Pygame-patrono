@@ -4,7 +4,7 @@ this is my first python pygame game, i hope you like it
   
 # what to do?   
 the target is to touch as much targets as posible.   
-there is no max time, but there is a timer. You can agree with your friends (if you have some) to play tot a certain amount of time.  
+there is no max time, but there is a timer. You can agree with your friends (if you have some) to each play to a certain amount of time and look who gots the most points, to see your points just look at the digit behind punten.  (your friends need to also download this game or play it when you are finished becouse sadly this is not a multiplayer game).
 
 # controls. 
 to go up with block/character you need to hold the space bar or the up arrow on your keybord, if you do it right then de energie bar on the right side at the bodem of your screen will fill up, if you think it has enough energie you can let the key loos. after a liitle bit of time your energie will reset and you can press space or the up key again.  
